@@ -1,0 +1,28 @@
+{
+  "name": "taskhelper",
+  "version": "0.0.1",
+  "description": "Create simple task manager onsite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "task",
+    "task",
+    "manager"
+  ],
+  "author": "Piotr Piska",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^6.2.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^4.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "glob": "^7.1.4"
+  }
+}
